@@ -1,0 +1,15 @@
+
+//Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+nav{
+	width:100%;
+	margin-top: 20px;
+	justify-content: space-around;
+}
